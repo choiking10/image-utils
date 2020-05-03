@@ -13,8 +13,8 @@ for filename in os.listdir("test"):
 
     aspect = width / float(height)
 
-    ideal_width = 1045
-    ideal_height = 555
+    ideal_height = 200
+    ideal_width = 380
 
     ideal_aspect = ideal_width / float(ideal_height)
 
